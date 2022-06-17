@@ -1,0 +1,16 @@
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\Chat.exe
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\Chat.deps.json
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\Chat.runtimeconfig.json
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\Chat.runtimeconfig.dev.json
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\Chat.dll
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\ref\Chat.dll
+C:\Unity Project\Network\Chat\bin\Debug\net5.0\Chat.pdb
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.csproj.AssemblyReference.cache
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.AssemblyInfoInputs.cache
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.AssemblyInfo.cs
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.csproj.CoreCompileInputs.cache
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.dll
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\ref\Chat.dll
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.pdb
+C:\Unity Project\Network\Chat\obj\Debug\net5.0\Chat.genruntimeconfig.cache
